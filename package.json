@@ -24,7 +24,7 @@
   "author": "Brady Watkinson",
   "license": "MIT",
   "dependencies": {
-    "ajv": "^6.10.2",
+    "ajv": "^6.12.3",
     "awilix": "^3.0.9",
     "awilix-express": "^0.11.0",
     "body-parser": "^1.17.1",
